@@ -119,7 +119,7 @@ export const countries: Countries = {
   LT: "Lithuania",
   LU: "Luxembourg",
   MO: "Macao",
-  MK: "Republic of Macedonia",
+  MK: "North Macedonia",
   MG: "Madagascar",
   MW: "Malawi",
   MY: "Malaysia",
@@ -222,4 +222,5 @@ export const countries: Countries = {
   YE: "Yemen",
   ZM: "Zambia",
   ZW: "Zimbabwe",
+  XK: "Kosovo"
 };
