@@ -1,6 +1,6 @@
 {
   "name": "@bagpuss/react-flags-select",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "react-flags-select React component",
   "main": "build/index.js",
   "module": "build/index.esm.js",
