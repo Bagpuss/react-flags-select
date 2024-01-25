@@ -223,4 +223,5 @@ export const countries: Countries = {
   ZM: "Zambia",
   ZW: "Zimbabwe",
   XK: "Kosovo",
+  ZZ: "Other",
 };

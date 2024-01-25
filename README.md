@@ -1,6 +1,6 @@
 # react-flags-select
 
-**This is a fork of Richard Ekwonye's library, where I have changed the name of Republic of Macedonia to North Macedonia, and added Kosovo.**
+**This is a fork of Richard Ekwonye's library, where I have changed the name of Republic of Macedonia to North Macedonia, added Kosovo, and an extra country "Other" with country code ZZ.**
 
 A React library that provides a customizable SVG flags select components and standalone SVG flags components.
 
